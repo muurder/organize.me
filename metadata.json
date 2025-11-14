@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp Scheduling Assistant Simulator",
+  "description": "An interactive simulator for a WhatsApp-based virtual assistant that helps clients schedule, view, and cancel appointments for services like barbershops and beauty salons.",
+  "requestFramePermissions": []
+}
